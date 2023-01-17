@@ -2,7 +2,7 @@
 pinned:
   - a11y/chto-takoe-a11y
   - recipes/progress
-  - js/how-the-browser-creates-pages
+  - tools/how-the-browser-creates-pages
 ready:
   - a11y/screenreaders
   - a11y/aria-intro
@@ -36,14 +36,14 @@ ready:
   - js/function
   - js/function-context
   - js/infinite-scroll
-  - js/oop
+  - tools/oop
   - js/async-in-js
   - js/deal-with-forms
-  - js/how-the-browser-creates-pages
-  - js/how-to-test-and-why
+  - tools/how-the-browser-creates-pages
+  - tools/how-to-test-and-why
   - js/execution-order
   - js/closures
-  - js/clean-architecture
+  - tools/clean-architecture
   - tools/agile
   - tools/markdown
   - tools/network
@@ -60,7 +60,7 @@ ready:
 active:
   - a11y/chto-takoe-a11y
   - recipes/progress
-  - js/how-the-browser-creates-pages
+  - tools/how-the-browser-creates-pages
   - css/media
   - tools/webpack
   - js/function-context
@@ -68,8 +68,8 @@ active:
   - tools/cli
   - js/var-let
   - tools/static-types
-  - js/clean-architecture
-  - js/how-to-test-and-why
+  - tools/clean-architecture
+  - tools/how-to-test-and-why
   - css/box-shadow
   - js/boolean
   - html/doctype
@@ -100,7 +100,7 @@ active:
   - tools/network
   - a11y/aria-hidden
   - js/infinite-scroll
-  - js/oop
+  - tools/oop
   - html/div
   - js/function
   - tools/ci-cd
