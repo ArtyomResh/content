@@ -1,6 +1,5 @@
 ---
 name: 'Полезное'
-
 groups:
   - name: Как устроен веб
     items:
@@ -8,7 +7,6 @@ groups:
       - web-app-types
       - web-app-works
       - web-security
-
   - name: Архитектура и хорошие практики
     items:
       - architecture-and-design-patterns
@@ -20,8 +18,6 @@ groups:
       - design-patterns-creational
       - design-patterns-structural
       - design-patterns-behaviorial
-
-
   - name: Стили программирования
     items:
       - programming-paradigms
@@ -29,22 +25,17 @@ groups:
       - fp
       - reactivity
       - tdd
-
   - name: Фреймворки
     items:
       - react-and-alternatives
-
   - name: TypeScript и другие языки
     items:
       - static-types
-
-
   - name: Как устроен браузер
     items:
       - how-the-browser-creates-pages
       - coordinates
       - browsers-storages
-
   - name: Инженерная культура
     items:
       - code-review
@@ -52,7 +43,6 @@ groups:
       - code-style
       - version-control
       - agile
-
   - name: Сборка проекта
     items:
       - package-managers
@@ -63,7 +53,6 @@ groups:
       - nodejs-tooling
       - rollup
       - gulp
-
   - name: Развёртывание проекта
     items:
       - docker
@@ -73,7 +62,6 @@ groups:
       - gitlab-ci-cd
       - ci-cd
       - github-actions
-
   - name: Операционная система
     items:
       - file
@@ -81,7 +69,6 @@ groups:
       - multitasking-and-processes
       - process-management
       - ssh
-
   - name: Сеть
     items:
       - network
@@ -91,29 +78,24 @@ groups:
       - ssl-certificates
       - http-protocol
       - tcp-udp-protocols
-
   - name: Безопасность
     items:
       - web-security
       - ssl-certificates
-
   - name: Форматы данных
     items:
       - json
       - markdown
       - yaml
       - xml
-
   - name: Бэкенд
     items:
       - web-server
       - apache-web-server
       - nginx-web-server
-
   - name: Базы данных
     items:
       - elasticsearch
-
   - name: Тестирование
     items:
       - how-to-test-and-why
@@ -128,7 +110,6 @@ groups:
       - ssh
       - gulp
       - version-control
-
 ---
 
 Здесь собраны технологии, теория и хорошие практики, которые пригодятся при разработке веб-приложений.
